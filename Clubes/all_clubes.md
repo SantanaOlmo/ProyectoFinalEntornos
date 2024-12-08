@@ -17,8 +17,6 @@
 # **<a id="club-de-ciencia-ficción-y-fantasía"></a>Club de Ciencia Ficción y Fantasía**
 ![imagen](../imagenes/1.Club_Ficcion/retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
 
-**Bienvenidos al Club de Ciencia Ficción**
-
 ¿Te apasiona explorar futuros alternativos, viajes extraordinarios y mundos llenos de imaginación? Únete al Club de Ciencia Ficción, un espacio para los amantes de las grandes historias que desafían los límites de lo posible.
 
 📚 En nuestras reuniones, leeremos y discutiremos obras clásicas y modernas de autores visionarios como *Julio Verne*, el maestro de los viajes increíbles; *George Orwell*, con sus inquietantes distopías; *Philip K. Dick*, creador de realidades alternativas que inspiran; y el incomparable arte narrativo de *Moebius*, entre muchos otros.
@@ -31,8 +29,6 @@
 # **<a id="club-de-manga"></a>Club de Manga**  
 
 ![imagen](../imagenes/2.Club_Manga/goodnightpunpun.jpg)
-
- ¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨
 
 Este es un espacio creado para quienes disfrutan sumergirse en las fascinantes historias del manga. Nos dedicamos a leer, compartir y analizar obras que van desde los géneros más conocidos, como el shōnen, shōjo o seinen, hasta subgéneros específicos como el isekai, el yuri o el slice of life.
 
@@ -48,8 +44,6 @@ Este es un espacio creado para quienes disfrutan sumergirse en las fascinantes h
 # **<a id="club-de-literatura-clásica"></a>Club de Literatura Clásica**  
 ![imagen](../imagenes/3.Club_clasico/destruction_of_pompeii_and_herculaneum.png)
 
-**¡Bienvenidos al Club de Literatura Clásica! 📜✨**
-
 Este club está dedicado a explorar las grandes obras que han marcado la historia de nuestra literatura. Desde las epopeyas de Homero hasta las novelas de Jane Austen, aquí encontrarás un espacio para debatir y reflexionar sobre textos atemporales.
 
 📚 Actividades del club:
@@ -63,8 +57,6 @@ Este club está dedicado a explorar las grandes obras que han marcado la histori
 
 # **<a id="club-de-ensayos-filosóficos"></a>Club de Ensayos Filosóficos**
 ![imagen](../imagenes/4.Club_Filosofia/Solon_FilosofiaCabecera.png)
-
-**¡Bienvenidos al Club de Ensayos Filosóficos! 📜**
 
 Este club es el lugar ideal para quienes buscan profundizar en el pensamiento filosófico a través de ensayos que abordan temas como la ética, la política y la naturaleza humana. Cuestiones importantes para quienes buscan ir "más allá" de lo dictado por la sociedad.
 
@@ -81,8 +73,6 @@ Este club es el lugar ideal para quienes buscan profundizar en el pensamiento fi
 # **<a id="club-de-literatura-contemporánea"></a>Club de Literatura Contemporánea**
 ![imagen](../imagenes/5.Club_Contemporanea/contem_cabecera.png)
 
-**¡Bienvenidos al Club de Literatura Contemporánea! ✨**
-
 Un club diseñado para los amantes de la literatura actual. Aquí exploramos obras que reflejan los problemas, las emociones y las esperanzas del mundo moderno. También nos adentramos en la novela negra o en thrillers de actualidad.
 
 📚 Qué hacemos:
@@ -97,8 +87,6 @@ Un club diseñado para los amantes de la literatura actual. Aquí exploramos obr
 # **<a id="club-de-mujeres-escritoras"></a>Club de Mujeres Escritoras**  
 ![imagen](../imagenes/6.Club_Mujeres_Escritoras/mujeres_escritoras.png)
 
-**¡Bienvenidos al Club de Mujeres Escritoras! ✨**
-
 Un club dedicado a celebrar el trabajo de mujeres escritoras a lo largo de la historia. Desde *Mary Shelley* hasta *Isabel Allende*, exploramos obras que han enriquecido la literatura global.
 
 📚 Actividades:
@@ -111,8 +99,6 @@ Un club dedicado a celebrar el trabajo de mujeres escritoras a lo largo de la hi
 
 # **<a id="club-de-divulgación-científica"></a>Club de Divulgación Científica**  
 ![imagen](../imagenes/7.Club_Divulgacion_Cientifica/Divultacion_CientificaCabe.png)
-
-**¡Bienvenidos al Club de Divulgación Científica! 💡**
 
 Para los *curiosos del mundo de la ciencia*, este club se centra en libros que explican conceptos científicos de manera clara y entretenida.
 
@@ -128,8 +114,6 @@ Para los *curiosos del mundo de la ciencia*, este club se centra en libros que e
 # **<a id="club-de-lectura-infantil"></a>Club de Lectura Infantil**  
 ![imagen](../imagenes/8.Club_Infantil/Club_InfantilCabecera.png)
 
-**¡Bienvenidos al Club de Lectura Infantil! 💡**
-
 Un espacio para los más pequeños y los amantes de los cuentos infantiles. Ideal para fomentar el amor por la lectura desde temprana edad.
 
 📚 Qué hacemos:
@@ -142,8 +126,6 @@ Un espacio para los más pequeños y los amantes de los cuentos infantiles. Idea
 
 # **<a id="club-de-poesía"></a>Club de Poesía**  
 ![imagen](../imagenes/9.Club_Poesia/Poesia_Cabecera.png)
-
-**¡Bienvenidos al Club de Poesía! 💡**
 
 Un rincón para los amantes de los versos. En este club, exploramos la magia de las palabras a través de grandes poetas de todas las épocas.
 
