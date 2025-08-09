@@ -38,6 +38,12 @@ Estamos encantados de recibirte y esperamos que disfrutes de esta experiencia li
 
 ---
 
+## Autores
+- [Alberto Estepa Gómez](https://github.com/SantanaOlmo)
+- [David Gutiérrez Ortiz](https://github.com/DavidLazaro08)
+
+---
+
 ## Contáctanos
 [![imagen](imagenes/whatsapplogo.png)](https://wa.me/34644208608) 
 
